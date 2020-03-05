@@ -81,6 +81,10 @@
 
   /* offset */
 
+  .offset-lg-1 {
+    margin-left: calc(100% / 12);
+  }
+
   .offset-lg-2 {
     margin-left: calc((100% / 12) * 2);
   }
@@ -174,6 +178,9 @@
   }
 
   /* offset */
+  .offset-md-1 {
+    margin-left: calc(100% / 12);
+  }
 
   .offset-md-2 {
     margin-left: calc((100% / 12) * 2);
@@ -269,6 +276,10 @@
   }
 
   /* offset */
+
+  .offset-xs-1 {
+    margin-left: calc(100% / 12);
+  }
 
   .offset-xs-2 {
     margin-left: calc((100% / 12) * 2);
